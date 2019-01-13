@@ -26,7 +26,7 @@ Bangs works independent of history and cache.
 
 <br>
 
-| Some Popular Bangs|
+| Some | Popular | Bangs|
 | --- | --- | --- |
 | GitHub: `gh` | Stack Overflow: `so` | Stack Exchange: `se` |
 | Mozilla Developer Network: `mdn` | MS Developer Network: `msdn` | Codepen: `cpen` |
