@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/omnibang-white-256.png" style="max-width:100%;">
+  <img src="" style="max-width:100%;">
 </p>
 
 # OpenDirect
@@ -22,11 +22,11 @@ Bangs works independent of history and cache.
 
 <br>
 
-![Pictorial description of extension](/img/omnibang-banner-1280x800.png)
+![Pictorial description of extension]()
 
 <br>
 
-| Some | Popular | Bangs|
+| Some Popular Bangs|
 | --- | --- | --- |
 | GitHub: `gh` | Stack Overflow: `so` | Stack Exchange: `se` |
 | Mozilla Developer Network: `mdn` | MS Developer Network: `msdn` | Codepen: `cpen` |
